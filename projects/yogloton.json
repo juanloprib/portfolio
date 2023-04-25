@@ -1,0 +1,31 @@
+{
+    "title": "Yo Glotón",
+    "text": [
+        "Yo Glotón was one of my favorite projects to work on. The idea behind the game was simple, yet important: teach people how to make better food choices. The game was completely free to play online, and it was a lot of fun!",
+        "Each level presented you with two or more food icons, and you had to select the healthiest option. In some levels, you had to select the food that was the worst for your health. You only had a few mistakes allowed per level, so it kept you on your toes. The game included a timer and at the end of each level, you could see your score on a leaderboard.",
+        "As the creator of Yo Glotón, I was in charge of developing the game idea, creating the name, designing the game, and coding its functionality using PHP and JavaScript.",
+        "Yo Glotón was developed using PHP and JavaScript, and it was even integrated with the Facebook API and Google Adsense. Although the game is no longer maintained, it was a great way to promote healthy eating and have fun at the same time."
+    ],
+    "images": [
+        {
+            "src": "projects/yogloton/yogloton-home.jpg",
+            "alt": "Yo gloton home page"
+        },
+        {
+            "src": "projects/yogloton/yogloton-game.jpg",
+            "alt": "Yo gloton game page"
+        },
+        {
+            "src": "projects/yogloton/yogloton-text.jpg",
+            "alt": "Yo gloton home text"
+        },
+        {
+            "src": "projects/yogloton/yogloton-tap.jpg",
+            "alt": "Yo gloton game page"
+        },
+        {
+            "src": "projects/yogloton/yogloton-time.jpg",
+            "alt": "Yo gloton end page"
+        }
+    ]
+}

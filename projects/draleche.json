@@ -1,0 +1,38 @@
+{
+    "title": "Doctora Leche",
+    "text": [
+        "Introducing <a href='https://www.tiktok.com/@draleche' target='_blank'>Doctora Leche</a>, the project that started as a passion project and has now become a massive hit on social media.",
+        "Our TikTok account has amassed over 360,000 followers with multiple videos crossing the 1 million views mark, while our YouTube channel @doctoraleche has over 120,000 subscribers with a whopping 30 million total views.",
+        "With a team led by me, we created a brand that resonates with parents worldwide, delivering expert advice on babies from the perspective of a medical doctor. I was responsible for leading the design and directing the team, from creating the brand to recording and editing every video. Join the community and learn valuable tips and tricks about babies from a trusted source!"
+    ],
+    "images": [
+        {
+            "src": "projects/draleche/draleche-logo.jpg",
+            "alt": "Doctora Leche logo"
+        },
+        {
+            "src": "projects/draleche/draleche-thumbnail-1.jpg",
+            "alt": "Doctora Leche thumbnail 1"
+        },
+        {
+            "src": "projects/draleche/draleche-thumbnail-2.jpg",
+            "alt": "Doctora Leche thumbnail 2"
+        },
+        {
+            "src": "projects/draleche/draleche-tiktok.jpg",
+            "alt": "Doctora Leche TikTok"
+        },
+        {
+            "src": "projects/draleche/draleche-videos.jpg",
+            "alt": "Doctora Leche videos"
+        },
+        {
+            "src": "projects/draleche/draleche-youtube.jpg",
+            "alt": "Doctora Leche YouTube channel"
+        },
+        {
+            "src": "projects/draleche/draleche-thumbnail-3.jpg",
+            "alt": "Doctora Leche thumbnail 3"
+        }
+    ]
+}

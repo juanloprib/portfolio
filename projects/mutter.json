@@ -1,0 +1,34 @@
+{
+    "title": "Mutter",
+    "text": [
+        "I led the development of the website for <a href='https://mutter.me/' target='_blank'>Mutter</a>, a Spanish company that creates innovative startups with great potential for investors. Our team of over 10 people worked tirelessly to deliver a modern and impactful website, complete with captivating animations and custom designs.",
+        "Using WordPress and a significant amount of custom code, we were able to create dynamic and multilingual content that truly showcases the unique and cutting-edge work that Mutter does.",
+        "It was an exciting project, and it was incredibly rewarding to see the finished product come together."
+    ],
+    "images": [
+        {
+            "src": "projects/mutter/mutter-lateral-menu.jpg",
+            "alt": "Mutter menu"
+        },
+        {
+            "src": "projects/mutter/mutter-impact.jpg",
+            "alt": "Mutter impact"
+        },
+        {
+            "src": "projects/mutter/mutter-investors.jpg",
+            "alt": "Mutter investors"
+        },
+        {
+            "src": "projects/mutter/mutter-projects.jpg",
+            "alt": "Mutter projects"
+        },
+        {
+            "src": "projects/mutter/mutter-people.jpg",
+            "alt": "Mutter people"
+        },
+        {
+            "src": "projects/mutter/mutter-groenlandia-tech.jpg",
+            "alt": "Mutter Groenlandia Tech"
+        }
+    ]
+}

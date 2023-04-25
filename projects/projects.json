@@ -1,0 +1,38 @@
+[
+    {
+        "name": "sessiontown",
+        "icon": "projects/sessiontown/sessiontown-icon.png"
+    },
+    {
+        "name": "bartendme",
+        "icon": "projects/bartendme/bartendme-icon.png"
+    },
+    {
+        "name": "foodapi",
+        "icon": "projects/foodapi/foodapi-icon.png"
+    },
+    {
+        "name": "yogloton",
+        "icon": "projects/yogloton/yogloton-icon.png"
+    },
+    {
+        "name": "sapote",
+        "icon": "projects/sapote/sapote-icon.png"
+    },
+    {
+        "name": "doctorblog",
+        "icon": "projects/doctorblog/doctorblog-icon.png"
+    },
+    {
+        "name": "canaria",
+        "icon": "projects/canaria/canaria-icon.png"
+    },
+    {
+        "name": "mutter",
+        "icon": "projects/mutter/mutter-icon.png"
+    },
+    {
+        "name": "draleche",
+        "icon": "projects/draleche/draleche-icon.png"
+    }
+]

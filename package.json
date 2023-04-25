@@ -1,0 +1,19 @@
+{
+  "name": "juanlopera",
+  "version": "1.0.0",
+  "description": "The development world of Juan Lopera",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "author": "Juan Lopera",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "stats.js": "^0.17.0",
+    "three": "^0.151.3"
+  },
+  "devDependencies": {
+    "vite": "^4.2.1"
+  }
+}

@@ -1,0 +1,46 @@
+{
+    "title": "DoctorBlog",
+    "text": [
+        "Have you ever wanted to learn about medicine, but found it too complicated and difficult to understand? Well, that's exactly what inspired us to create <a href='https://www.youtube.com/c/doctorblog' target='_blank'>DoctorBlog</a>. My girlfriend, Adriana, who is a medical doctor, and I joined forces to create a youtube channel that simplifies medical information and makes it accessible for everyone.",
+        "With my experience in running successful youtube channels, marketing, and design, and Adriana's medical knowledge, we make an unstoppable team. We launched DoctorBlog, and we were blown away by the results. With just 62 videos in 5 years, we have over 1.240.000 subscribers and 60 million visualizations. And to top it all off, our most viral video has over 11 million views! It's been an incredible journey, and we're so proud of what we've achieved.",
+        "As the scriptwriter, videographer, editor, and designer for every single video, I can honestly say that this project has been one of my greatest accomplishments. Through DoctorBlog, we've been able to help millions of people improve their health and make informed decisions. So go ahead and check it out!"
+    ],
+    "images": [
+        {
+            "src": "projects/doctorblog/doctorblog-channel-home.jpg",
+            "alt": "DoctorBlog YouTube channel home"
+        },
+        {
+            "src": "projects/doctorblog/doctorblog-most-viewed.jpg",
+            "alt": "DoctorBlog most viewed videos"
+        },
+        {
+            "src": "projects/doctorblog/doctorblog-video-1.jpg",
+            "alt": "DoctorBlog video 1"
+        },
+        {
+            "src": "projects/doctorblog/doctorblog-video-2.jpg",
+            "alt": "DoctorBlog video 2"
+        },
+        {
+            "src": "projects/doctorblog/doctorblog-video-3.jpg",
+            "alt": "DoctorBlog video 3"
+        },
+        {
+            "src": "projects/doctorblog/doctorblog-video-4.jpg",
+            "alt": "DoctorBlog video 4"
+        },
+        {
+            "src": "projects/doctorblog/doctorblog-video-5.jpg",
+            "alt": "DoctorBlog video 5"
+        },
+        {
+            "src": "projects/doctorblog/doctorblog-video-6.jpg",
+            "alt": "DoctorBlog video 6"
+        },
+        {
+            "src": "projects/doctorblog/doctorblog-video-7.jpg",
+            "alt": "DoctorBlog video 7"
+        }
+    ]
+}

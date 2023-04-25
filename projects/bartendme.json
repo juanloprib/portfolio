@@ -1,0 +1,34 @@
+{
+    "title": "Bartendme",
+    "text": [
+        "Looking for a fun way to add some excitement to your next party or event? Check out <a href='https://bartendme.co/' target='_blank'>bartendme.co</a>, the online liquor store and bartender delivery service in Colombia! In this project, I was tasked with creating a website that would not only showcase the company's extensive inventory of spirits and mixers, but also introduce the concept of bartenders on delivery.",
+        "Using WordPress and Woocommerce as the foundation, I was able to quickly create a seamless online shopping experience that allowed customers to easily browse and purchase their favorite drinks. But we didn't stop there! In order to provide the best possible experience for our users, we added custom functionality such as the ability to purchase gift cards, create customized cocktail kits, and even book a personal bartender for your next event.",
+        "With a focus on a professional design, and thanks to our efforts in SEO, dozens of new potential clients discover bartendme.co every day. So why wait? Let Bartendme take your party to the next level!"
+    ],
+    "images": [
+        {
+            "src": "projects/bartendme/bartendme-banner.jpg",
+            "alt": "Bartendme banner"
+        },
+        {
+            "src": "projects/bartendme/bartendme-bartenders.jpg",
+            "alt": "Bartendme bartenders"
+        },
+        {
+            "src": "projects/bartendme/bartendme-cocktail.jpg",
+            "alt": "Bartendme cocktail"
+        },
+        {
+            "src": "projects/bartendme/bartendme-gifts.jpg",
+            "alt": "Bartendme gifts"
+        },
+        {
+            "src": "projects/bartendme/bartendme-hendricks.jpg",
+            "alt": "Bartendme Hendricks experience"
+        },
+        {
+            "src": "projects/bartendme/bartendme-store.jpg",
+            "alt": "Bartendme store"
+        }
+    ]
+}

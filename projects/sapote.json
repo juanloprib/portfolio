@@ -1,0 +1,42 @@
+{
+    "title": "Sapote",
+    "text": [
+        "At Sapote, I had the opportunity to grow my skills as a developer and expand my knowledge into the world of branding and design. As a partner, I was able to lead teams and work directly with clients to ensure their projects were successful.",
+        "One of the most exciting parts of my job was overseeing the development of a wide variety of projects, from basic websites to complex B2B apps. I learned how to manage teams and keep projects on track, while also making sure the client's needs were met.",
+        "Working in Sapote was an amazing experience, and seeing the smile on our clients' faces after we delivered their projects always made me feel proud and happy for completing so many successful projects."
+    ],
+    "images": [
+        {
+            "src": "projects/sapote/sapote-home.jpg",
+            "alt": "Sapote home page"
+        },
+        {
+            "src": "projects/sapote/sapote-portfolio-1.jpg",
+            "alt": "Sapote portfolio"
+        },
+        {
+            "src": "projects/sapote/sapote-content.jpg",
+            "alt": "Sapote page content"
+        },
+        {
+            "src": "projects/sapote/sapote-ecommerce.jpg",
+            "alt": "Sapote e-commerce"
+        },
+        {
+            "src": "projects/sapote/sapote-portfolio-2.jpg",
+            "alt": "Sapote portfolio"
+        },
+        {
+            "src": "projects/sapote/sapote-us.jpg",
+            "alt": "Sapote about us"
+        },
+        {
+            "src": "projects/sapote/sapote-work.jpg",
+            "alt": "Sapote how we work"
+        },
+        {
+            "src": "projects/sapote/sapote-portfolio-3.jpg",
+            "alt": "Sapote portfolio"
+        }
+    ]
+}

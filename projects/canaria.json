@@ -1,0 +1,30 @@
+{
+    "title": "Canaria",
+    "text": [
+        "Welcome to <a href='https://www.canaria.com.co/' target='_blank'>Canaria.com.co</a>, the online jewelry store that will make you feel glamorous and luxurious. With its sleek and simple design, the products are allowed to shine and speak for themselves.",
+        "As the developer of this website, I used Wordpress + WooCommerce to create a simple and user-friendly platform that will make your shopping experience a breeze.",
+        "Through the years, this online store has grown and delivered an enormous impact to Laura, the owner of Canaria. It's always satisfying when you create a product that fulfills the client's needs, and the success of Canaria is a testament to that."
+    ],
+    "images": [
+        {
+            "src": "projects/canaria/canaria-home.jpg",
+            "alt": "Canaria home"
+        },
+        {
+            "src": "projects/canaria/canaria-products.jpg",
+            "alt": "Canaria products"
+        },
+        {
+            "src": "projects/canaria/canaria-product.jpg",
+            "alt": "Canaria product"
+        },
+        {
+            "src": "projects/canaria/canaria-highlights.jpg",
+            "alt": "Canaria highlights"
+        },
+        {
+            "src": "projects/canaria/canaria-blog.jpg",
+            "alt": "Canaria blog"
+        }
+    ]
+}

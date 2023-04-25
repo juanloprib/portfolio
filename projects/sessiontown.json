@@ -1,0 +1,42 @@
+{
+    "title": "Session Town",
+    "text": [
+        "Introducing <a href='https://www.sessiontown.com' target='_blank'>SessionTown.com</a> - the ultimate platform for music enthusiasts and learners! As the founder, designer, and developer of Session Town, I'm proud to present this progressive web app that offers a wide range of online musical instruments and games. The platform is designed to give users a fun and educational experience.",
+        "I built Session Town from the ground up, using PHP and MySQL for the backend, and vanilla JavaScript for the frontend. My goal was to create a platform that would not only be entertaining, but also helpful for aspiring musicians.",
+        "Thanks to the efforts in SEO and SEM, Session Town has maintained a daily user base of thousands of music lovers since its launch in 2017. So come on, let's jam together!"
+    ],
+    "images": [
+        {
+            "src": "projects/sessiontown/sessiontown-logo.jpg",
+            "alt": "Session Town Logo"
+        },
+        {
+            "src": "projects/sessiontown/sessiontown-home.jpg",
+            "alt": "SEssion Town home page"
+        },
+        {
+            "src": "projects/sessiontown/sessiontown-intro.jpg",
+            "alt": "Session Town introduction"
+        },
+        {
+            "src": "projects/sessiontown/sessiontown-piano.jpg",
+            "alt": "Session Town virtal piano"
+        },
+        {
+            "src": "projects/sessiontown/sessiontown-drums.jpg",
+            "alt": "Session Town virtal drumset"
+        },
+        {
+            "src": "projects/sessiontown/sessiontown-metronome.jpg",
+            "alt": "Session Town metronome"
+        },
+        {
+            "src": "projects/sessiontown/sessiontown-read-music.jpg",
+            "alt": "Session Town read music game"
+        },
+        {
+            "src": "projects/sessiontown/sessiontown-lessons.jpg",
+            "alt": "Session Town lessons"
+        }
+    ]
+}

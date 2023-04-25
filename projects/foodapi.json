@@ -1,0 +1,23 @@
+{
+    "title": "Your favorite recipes",
+    "text": [
+        "Get ready to get <a href='https://www.sessiontown.com/food/' target='_blank'>hungry with this project</a>! I accepted the challenge to create a professional-looking app in just a couple of days as a developer test for a Spanish company called Mutter.",
+        "I decided to go for a recipe search app using the Yummly API, because who doesn't love food? But, as you know, APIs can take a while to return a result, so I added a spinning fork loading screen to keep it fun.",
+        "And to show off my skills, I went all out and implemented an MVC architecture to keep the code clean and organized. The best part is that the <a href='https://github.com/juanloprib/recipes-search-save' target='_blank'>code is public on my GitHub page</a>, so check it out and let me know what you think!",
+        "And I'm happy to say that I got the job as a developer!"
+    ],
+    "images": [
+        {
+            "src": "projects/foodapi/foodapi-search.jpg",
+            "alt": "MVC food api search"
+        },
+        {
+            "src": "projects/foodapi/foodapi-load.jpg",
+            "alt": "MVC food api loading"
+        },
+        {
+            "src": "projects/foodapi/foodapi-save.jpg",
+            "alt": "MVC food api save"
+        }
+    ]
+}

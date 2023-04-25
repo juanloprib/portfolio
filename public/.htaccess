@@ -1,0 +1,11 @@
+RewriteEngine On
+
+# Force HTTPS and non-www URLs
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\.juanlopera\.com [NC]
+RewriteRule ^(.*)$ https://juanlopera.com/$1 [L,R=301]
+
+# Serve index.html for non-existing files and directories
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.+)$ index.html [L,QSA]
