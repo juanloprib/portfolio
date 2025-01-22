@@ -1,0 +1,40 @@
+{
+    "title": "LaLicorera",
+    "text": [
+        "Cheers to Innovation: <a href='https://lalicorera.com' target='_blank'>LaLicorera.com</a> isn't just any e-commerce website—it's the go-to marketplace for liquor in Colombia, proudly holding the title as the largest in the country.",
+        "his project is a story of evolution. The original version, launched in 2012, was built with vanilla PHP, HTML, JavaScript, and CSS. But in 2023, I led the charge to rebuild it from the ground up, creating a lightning-fast web app with Laravel, Svelte, and SvelteKit.",
+        "The new version goes beyond just selling bottles—it offers personalized experiences like laser engraving, gift wrapping, and tailored pricing based on the user's location. Customers can choose from multiple shipping and payment methods, all seamlessly integrated into the platform.",
+        "Beyond the storefront, I developed a custom Concent Management System (CMS) to manage content and an Order Management System (OMS) to handle the growing volume of sales. By leveraging APIs like Google Maps, Anthropic, and OpenAI, the site delivers a smarter, more personalized user experience.",
+        "The results? A sleek app, delighted customers, and a 20% boost in sales. Cheers to progress!"
+    ],
+    "images": [
+        {
+            "src": "projects/lalicorera/lalicorera-home.jpg",
+            "alt": "LaLicorera home"
+        },
+        {
+            "src": "projects/lalicorera/lalicorera-highlights.jpg",
+            "alt": "LaLicorera highlights"
+        },
+        {
+            "src": "projects/lalicorera/lalicorera-products.jpg",
+            "alt": "LaLicorera products"
+        },
+        {
+            "src": "projects/lalicorera/lalicorera-product.jpg",
+            "alt": "LaLicorera product"
+        },
+        {
+            "src": "projects/lalicorera/lalicorera-jw.jpg",
+            "alt": "LaLicorera JW Ice Chalet"
+        },
+        {
+            "src": "projects/lalicorera/lalicorera-gifts.jpg",
+            "alt": "LaLicorera gifts"
+        },
+        {
+            "src": "projects/lalicorera/lalicorera-maps.jpg",
+            "alt": "LaLicorera maps"
+        }
+    ]
+}

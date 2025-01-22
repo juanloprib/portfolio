@@ -1,0 +1,35 @@
+{
+    "title": "Scientifiq",
+    "text": [
+        "Unlocking Insights: <a href='https://app.scientifiq.ai' target='_blank'>Scientifiq is where cutting-edge AI meets the world of scientific research</a>, patents, and innovation. This web app transforms vast amounts of data into actionable insights, helping researchers and organizations navigate the ever-expanding universe of knowledge.",
+        "Built with Node.js and Svelte, Scientifiq is powered by BigQuery, Elasticsearch, and MongoDB to deliver lightning-fast and precise search results. Using advanced data analysis and AI, it predicts commercial, scientific, and social scores for papers, researchers, and patents. It even evaluates the potential of paper abstracts and descriptions, offering a glimpse into their future impact.",
+        "The app ensures the data is always fresh, automatically extracting and updating it weekly. With the scalability of Google Cloud and AWS, Scientifiq is as robust as it is intelligent, making it an invaluable tool for anyone looking to stay ahead in the world of science and innovation.",
+        "Smarter insights, faster decisions—welcome to the future of research with Scientifiq."
+    ],
+    "images": [
+        {
+            "src": "projects/scientifiq/scientifiq-concept.jpg",
+            "alt": "Scientifiq concept"
+        },
+        {
+            "src": "projects/scientifiq/scientifiq-search.jpg",
+            "alt": "Scientifiq search"
+        },
+        {
+            "src": "projects/scientifiq/scientifiq-results.jpg",
+            "alt": "Scientifiq results"
+        },
+        {
+            "src": "projects/scientifiq/scientifiq-login.jpg",
+            "alt": "Scientifiq login"
+        },
+        {
+            "src": "projects/scientifiq/scientifiq-web.jpg",
+            "alt": "Scientifiq web"
+        },
+        {
+            "src": "projects/scientifiq/scientifiq-sandbox.jpg",
+            "alt": "Scientifiq sandbox"
+        }
+    ]
+}

@@ -34,5 +34,13 @@
     {
         "name": "draleche",
         "icon": "projects/draleche/draleche-icon.png"
+    },
+    {
+        "name": "lalicorera",
+        "icon": "projects/lalicorera/lalicorera-icon.png"
+    },
+    {
+        "name": "scientifiq",
+        "icon": "projects/scientifiq/scientifiq-icon.png"
     }
 ]
