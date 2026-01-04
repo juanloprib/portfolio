@@ -1,0 +1,34 @@
+{
+    "title": "Travify",
+    "text": [
+        "I led both the product management and development of <a href='https://travify.com/' target='_blank'>Travify</a>, a global platform that sells tickets to some of the world's most iconic attractions, including the Eiffel Tower, La Sagrada Familia, Burj Khalifa, and Warner Bros Studio Tour London. Beyond building the product, I coordinated closely with multiple departments to align business goals, technical decisions, and delivery timelines.",
+        "The platform was designed as a highly scalable system powered by Strapi CMS, allowing non-technical teams to easily manage and update content. To support a truly international audience, the website offers more than eight languages. To make this possible, I developed a custom Strapi plugin that integrates with OpenAI's API, enabling fast and intuitive content translation directly within the CMS.",
+        "The entire frontend was built using Svelte and SvelteKit, focusing on performance, maintainability, and a modern user experience. Additionally, I integrated MeiliSearch to provide fast, reliable, and highly relevant search across the platform. The result is a robust, multilingual, and future-proof product that successfully combines strong technical foundations with efficient cross-team collaboration."
+    ],
+    "images": [
+        {
+            "src": "projects/travify/travify-homepage.jpg",
+            "alt": "Travify homepage"
+        },
+        {
+            "src": "projects/travify/travify-calendar.jpg",
+            "alt": "Travify calendar"
+        },
+        {
+            "src": "projects/travify/travify-cross-selling.jpg",
+            "alt": "Travify cross-selling"
+        },
+        {
+            "src": "projects/travify/travify-gallery.jpg",
+            "alt": "Travify gallery"
+        },
+        {
+            "src": "projects/travify/travify-payment.jpg",
+            "alt": "Travify payment"
+        },
+        {
+            "src": "projects/travify/travify-cms.jpg",
+            "alt": "Travify cms"
+        }
+    ]
+}

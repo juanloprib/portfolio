@@ -42,5 +42,9 @@
     {
         "name": "scientifiq",
         "icon": "projects/scientifiq/scientifiq-icon.png"
+    },
+    {
+        "name": "travify",
+        "icon": "projects/travify/travify-icon.png"
     }
 ]
