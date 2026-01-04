@@ -81,6 +81,7 @@ class UserInterface {
         this.movePageToTop();
         this.#page.classList.add('hidden');
         this.#page.classList.remove('page-animation');
+        this.#removeLightbox();
         // dispatch event
         const event = new CustomEvent('pageHidden');
         document.dispatchEvent(event);
@@ -103,6 +104,7 @@ class UserInterface {
         }
         this.#profileContent.classList.add('hidden');
         this.#projectContent.classList.remove('hidden');
+        this.#removeLightbox();
         this.showPage();
     }
 
@@ -330,6 +332,14 @@ class UserInterface {
                 img.style.transform = '';
             }
         });
+        
+    }
+    
+    #removeLightbox() {
+        const lightbox = this.#page.querySelector('.lightbox');
+        if (lightbox) {
+            lightbox.remove();
+        }
     }
 
 }
